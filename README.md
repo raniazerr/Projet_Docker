@@ -126,11 +126,11 @@ npm test
 Les tests couvrent :
 - **Tests unitaires** (`tests/unit/`) : modèle Task (create, findAll, findById, update, delete)
 - **Tests d'intégration** (`tests/integration/`) : tous les endpoints de l'API
-```
-Test Suites: 2 passed
-Tests:       17 passed
-```
- 
+
+<img width="298" height="82" alt="image" src="https://github.com/user-attachments/assets/8219ed9b-e933-497d-9824-f8a556c58c89" />
+
+
+
 ---
  
 ## Structure du projet
