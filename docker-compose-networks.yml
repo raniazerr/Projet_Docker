@@ -6,7 +6,7 @@ services:
       - frontend
       - backend
     ports:
-      - "3001:3000"
+      - "3000:3000"
 
   database:
     image: postgres:15-alpine
